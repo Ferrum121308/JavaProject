@@ -1,0 +1,12 @@
+
+Q
+java:S1144"/Remove this unused private "initialize" method.(ˆå¶šûÿÿÿÿ8ÛôˆÕè.
+f
+java:S3252"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(¢¡´8’Ï’Õè.
+t
+java:S1450"XRemove the "textField" field and declare it as a local variable in the relevant methods.(Ò„™8ò¸œÕè.
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(àşº8â…Õè.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ü€¸÷
+J
+java:S1604"(Make this anonymous inner class a lambda(¤©Òâüÿÿÿÿ8ƒçıÔè.
