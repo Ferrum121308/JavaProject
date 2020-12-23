@@ -1,0 +1,12 @@
+
+K
+java:S1128".Remove this unused import 'java.util.Objects'.(¼¸õ›8¨õóàè.
+k
+java:S22597"IA "NullPointerException" could be thrown; "fruitEntity" is nullable here.(õè©Öÿÿÿÿÿ8›°÷àè.
+c
+java:S11267"AReplace this if-then-else statement by a single return statement.(õè©Öÿÿÿÿÿ8›°÷àè.
+<
+java:S20975"Add a type test to this method.(ÜÑã8›°÷àè.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¢ƒƒ÷
+m
+java:S12065"PThis class overrides "equals()" and should therefore also override "hashCode()".(ÜÑã8¨õóàè.

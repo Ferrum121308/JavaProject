@@ -1,14 +1,14 @@
 
-S
-java:S1153K"1Directly append the argument of String.valueOf().(›£Èúÿÿÿÿ8‘ˆ¯Ùè.
 f
 java:S3252""IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(¢¡´8’Ï’Õè.
-t
-java:S3776"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(ˆå¶šûÿÿÿÿ8åÃ¦Ùè.
-J
-java:S1604"(Make this anonymous inner class a lambda(¤©Òâüÿÿÿÿ8ƒçıÔè.
 S
 java:S1854Z"6Remove this useless assignment to local variable "dd".(ÑÙŠ‰8§ÌåÙè.
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ü€¸÷
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(ˆå¶šûÿÿÿÿ8åÃ¦Ùè.
 E
 java:S16047"(Make this anonymous inner class a lambda(Èú†8ÈŸûØè.
+J
+java:S1604"(Make this anonymous inner class a lambda(¤©Òâüÿÿÿÿ8ƒçıÔè.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ü€¸÷
+S
+java:S1153K"1Directly append the argument of String.valueOf().(›£Èúÿÿÿÿ8‘ˆ¯Ùè.
